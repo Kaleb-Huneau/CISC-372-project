@@ -1,2 +1,4 @@
-# CISC-372-project
-Analyzing Airbnb Data
+# CISC-372-Project - Examining the relationship between user reviews and property listings for Airbnbs
+
+This project aims to perform data analysis on Airbnb data included in the Inside Airbnb dataset (https://insideairbnb.com/). The first research question posed aims to determine if any additional features that are not presently tracked should be included in listing information, based on user reviews. This was accomplished using aspect sentiment analysis, as shown in RQ1.ipynb. The second research question asks what are the key features of a listing that contribute to receiving the highest reviews, accomplished using the Pearson correlation coefficient and single variable classifiers, shown in RQ2.ipynb. Finally, the third question hopes to create a model to predict listing prices based on listing features and user reviews to inform user decisions when booking properties. The code for this question can be seen in RQ3.ipynb.
+
